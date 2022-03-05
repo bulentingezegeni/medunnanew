@@ -69,7 +69,6 @@ public class RegistrationSteps {
     }
     @Then("user creates the records to a correspondent file")
     public void user_creates_the_records_to_a_correspondent_file() {
-
         saveRegistrantData(registrant);
     }
 
